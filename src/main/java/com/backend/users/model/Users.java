@@ -14,4 +14,7 @@ public class Users {
 
     private String nome;
 
+    private String cpf;
+
+    private String dataNascimento;
 }
